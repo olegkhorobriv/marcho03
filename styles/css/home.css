@@ -1,0 +1,56 @@
+.home {
+  margin-top: 65px;
+}
+.home ul li {
+  text-align: center;
+  list-style: none;
+  margin-bottom: 25px;
+  padding: 15px 30px;
+  background-color: #0d95e8;
+  border-radius: 12px;
+}
+.home a {
+  font-size: 22px;
+  color: #2a2a2a;
+}
+.home a:hover {
+  color: red;
+}
+
+.basket__inner {
+  margin-top: 45px;
+}
+.basket__box {
+  margin-top: 20px;
+  border-bottom: 1px solid #0d95e8;
+  width: 100%;
+  border-bottom: 1px solid #0d95e8;
+  border-radius: 15px;
+  background-color: #212529;
+  padding: 15px 30px;
+}
+.basket__flex {
+  margin-top: 10px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.basket__flex h1 {
+  color: #0D6EFD;
+  padding-top: 10px;
+  font-size: 18px;
+}
+
+.list-info {
+  margin-top: 20px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.list-info ul {
+  width: 70%;
+  display: flex;
+  justify-content: space-between;
+}
+
+/*# sourceMappingURL=home.css.map */

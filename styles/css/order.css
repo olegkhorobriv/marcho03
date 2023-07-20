@@ -1,0 +1,30 @@
+.order-box {
+  color: black;
+  margin-top: 90px;
+  text-align: center;
+}
+
+.info {
+  line-height: 24px;
+  font-size: 18px;
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.info ul li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.order__login {
+  margin-top: 40px;
+}
+
+.order__link {
+  margin-top: 20px;
+}
+
+/*# sourceMappingURL=order.css.map */
